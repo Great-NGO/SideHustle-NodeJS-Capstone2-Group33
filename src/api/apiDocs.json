@@ -1,0 +1,11 @@
+{
+    "endpoint1":"POST /auth/signup: Create user account",
+    "endpoint2": "POST /auth/signin: Login a user",
+    "endpoint3": "POST /property: Create a property advert",
+    "endpoint4" : "PATCH /property/<:property-id>: Update property data",
+    "endpoint5" : "PATCH /property/<:property-id>/sold: Mark a property as sold",
+    "endpoint6" : "DELETE /property/<:property-id>: Delete a property advert",
+    "endpoint7" : "GET /property/<:property-id>: Get a specific property by ID",
+    "endpoint8" : "GET /property: Get all properties",
+    "endpoint9" : "GET /property/search?type=propertyType: Get all properties with a specific type"
+}
