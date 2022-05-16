@@ -1,4 +1,4 @@
-This is the github repository for the capstone2 project for Node js track Group 33. To run the code simply type node server.js or npm start or to run it without restarting it type npm start:dev
+This is the github repository for the capstone2 project for Node js track Group 33. To run the code simply type node server.js or npm start or to run it without restarting it type npm start:dev. Check the apiDocs.json file which contains all the endpoints that are present in the application. You can find the apiDocs.json file in the src/api folder
 
 PROJECT DETAILS:
 ApexHauz
